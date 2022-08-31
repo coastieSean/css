@@ -1,4 +1,4 @@
 .siteforceThemeLayoutStarter {
     background-color: wheat !important;
 }
---lwc-colorBackgroundButtonBrand: rgb(234 0 30);
+--lwc-colorBackgroundButtonBrand: rgb(234 0 30) !important;
