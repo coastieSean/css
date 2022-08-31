@@ -1,0 +1,13 @@
+.grid-layout-container .grid-layout .grid-layout-header {
+    display: none !important;
+}
+.actions {
+    display: none !important;
+}
+.slds-card {
+    border: none !important;
+    box-shadow: none !important;
+}
+.truncation {
+    white-space: normal !important;
+}
