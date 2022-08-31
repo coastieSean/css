@@ -9,6 +9,6 @@
     position: absolute;
     background-attachment: fixed !important;
 }
-body {
+.forceCommunityRichText h1, .forceCommunityRichText p  {
     font-family: 'Qwitcher Grypen', cursive !important;
 }
