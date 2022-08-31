@@ -1,4 +1,14 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@700&display=swap" rel="stylesheet">
+
 .siteforceThemeLayoutStarter {
     background-color: wheat !important;
 }
---lwc-colorBackgroundButtonBrand: rgb(234 0 30) !important;
+.forceCommunityThemeHeroBase .comm-is-absolute {
+    position: absolute;
+    background-attachment: fixed !important;
+}
+body {
+    font-family: 'Qwitcher Grypen', cursive;
+}
